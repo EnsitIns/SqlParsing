@@ -1,0 +1,8 @@
+----------------------------------------------------------------
+Wed Mar 15 09:24:58 GMT+03:00 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.7.1.1 - (1040133): instance a816c00e-015a-d0a4-130d-0000062430e8 
+on database directory D:\projectIdea\KlientsBase  with class loader sun.misc.Launcher$AppClassLoader@5fab9dac 
+Loaded from file:/D:/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_45-b18
+Database Class Loader started - derby.database.classpath=''
